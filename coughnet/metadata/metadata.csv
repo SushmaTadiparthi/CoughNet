@@ -1,0 +1,234 @@
+a,asthma,cold,cough,diabetes,diarrhea,fever,g,id,l_c,l_l,l_s,record_date,smoker,hmpv,h3n2,covid_status,overall_status,loss_of_taste_smell,wheezing,body_aches,chills,sore_throat
+56,0,0,1,0,0,1,1,5le68NJRZWV6TrMTYn3j7gSlqTi2,0.9,Virar,Maharashtra,0,0,0,0,1,3,1,1,0,0,1
+22,0,0,0,0,0,0,1,Fohk6SJxcJVo4rtuGD6PMwJ9qTQ2,1,Bangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+36,0,0,1,0,0,1,1,yeo7HwJ5Dcbqc4ozwv6az8iRVTJ3,0.8,Bangalore,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+31,0,1,1,0,0,1,0,D31ydMgq8wMpO9OOGwxpMfOp9qg1,0.8,Davanagere,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+20,0,0,1,0,0,1,0,9TA7dm7qVygA0rTNGmNJOlofvtP2,0.8,0,West Bengal,0,0,0,1,0,2,1,1,0,0,0
+58,0,0,0,0,0,0,0,pUOk49eAwAcbHBwdL3OldmF1iHd2,1,BANGLORE,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+30,0,0,1,0,0,1,0,OHIo7PN5VJZoQefj2perUPRHsDn2,0.8,Bangalore,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+53,0,0,1,0,0,1,0,D5aq6FUMeCQal79ePD7UZniIyF12,0.9,Mumbai,Maharashtra,0,0,0,0,1,3,1,1,0,0,1
+25,0,0,1,0,0,1,1,XGXvJt5p7wQ7fcvMbdN92bAPzZE2,0.8,Parel,Maharashtra,0,0,0,1,0,2,1,1,0,0,0
+29,0,0,0,0,0,0,0,zOmz0TaNdmQfF2jUFkqUKuNa80m1,1,Bangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+29,0,0,1,0,0,1,0,nFYEOudV6AXO7kSQU7mjyezJXUw2,0.8,ypsilanti,Michigan,0,0,0,1,0,2,1,1,0,0,0
+37,0,0,0,0,0,0,0,kIHldMnyvmXvpLq0LjWr7ecclSj2,1,0,Assam,0,0,0,0,0,0,0,0,0,0,0
+31,0,0,0,0,0,0,0,AaTqzQjwIYaQW0MHufWVP5GWQ4I3,1,TRIVANDRUM,Kerala,0,0,0,0,0,0,0,0,0,0,0
+30,0,0,1,0,0,1,0,r0PkYZFUK1M0lhIUFHziLkwjsL53,0.9,Mumbai,Maharashtra,0,0,0,0,1,3,1,1,0,0,1
+27,0,0,1,0,0,1,0,stnT0xsBXhb159fZrbzN9kwAKvF2,0.8,0,Ontario,0,0,0,1,0,2,1,1,0,0,0
+53,0,0,1,0,0,1,0,AaGldp1blyVKOPpV1KVhsPhrmAg1,0.8,Riyadh,Central Province,0,0,0,1,0,2,1,1,0,0,0
+41,0,0,0,0,0,0,0,4FJNm8IlWySNOgF0Jyyvw6beLxF2,1,bengaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+20,0,0,1,0,0,1,0,j4xItLU4BzcKshmihayCM0pTooH3,0.9,Rajkot,Gujarat,0,0,0,0,1,3,1,1,0,0,1
+26,0,0,1,0,0,1,0,fuCq7eA5CPYcnRpJqc0hFSr8klr2,0.9,LEAP_Test,Kerala,0,0,0,0,1,3,1,1,0,0,1
+50,0,0,1,0,0,1,1,XanIvOwNxde5zwMzliOagKFFYUt1,0.8,RMV 2and stage,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+53,0,1,0,0,0,0,1,zhSebSRltXd69mGoGRVeYZ5eQ3l1,1,Pashan/Pune,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+25,0,0,0,0,0,0,0,UDsJYcNsh1NOD6LBl55nI5Z2dgj2,1,Bengaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+25,0,0,0,0,0,0,0,jVdlO7RPQmaumDLciCDspJInwMx2,1,Indore,Madhya Pradesh,0,0,0,0,0,0,0,0,0,0,0
+26,0,0,0,0,0,0,0,FLhjsgqrgQMKwNt5iEryxG5sDlW2,1,Sonebhadra,Uttar Pradesh,0,0,0,0,0,0,0,0,0,0,0
+47,0,0,0,0,0,0,0,AS7IWnzwSnZ6IzknBA0G7uLYEeT2,1,0,Kerala,0,0,0,0,0,0,0,0,0,0,0
+29,0,0,0,0,0,0,0,welbkeuEJpggaMpfcDyPgP8im703,1,Bhadrachalam,Telangana,0,0,0,0,0,0,0,0,0,0,0
+28,0,0,1,0,0,1,1,LG9JXKoSkeN9IHceg9xruqw1yt23,0.9,Bangalore,Karnataka,0,0,0,0,1,3,1,1,0,0,1
+29,0,0,1,0,0,1,0,uXC8VbwVHrY6Y9oh83B8X6DTjAO2,0.8,vadodara,Gujarat,0,0,1,1,0,2,1,1,0,0,0
+24,0,0,1,0,0,1,0,iECdjKjowNVh89DwO6HqoRnaDtY2,0.9,Bhopal,Madhya Pradesh,0,0,0,0,1,3,1,1,0,0,1
+41,0,0,1,0,0,1,0,sh8x9M4ZeXXllQvCiFENINxFf9h1,0.8,Bangalore,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+32,0,0,1,0,0,1,0,MKb4BFUuYAZfOtzGlAz1UwNzo6R2,0.7,0,Uttar Pradesh,0,0,1,0,0,1,1,1,0,0,0
+36,0,0,0,0,0,0,1,5FcCm1G9aPbjeCwnAgd7UUQFK062,1,pune ,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+25,0,0,1,0,0,1,1,2TkAK2YVkYS7Ux3hAPBUgYgg9DI3,0.9,HYDERABAD,Telangana,0,0,0,0,1,3,1,1,0,0,1
+25,0,0,1,0,0,1,0,5q8gLM0yCrgGCT8F9fWlH4ycl1D3,0.9,Kanpur Nagar,Uttar Pradesh,0,0,0,0,1,3,1,1,0,0,1
+29,0,0,1,0,0,1,0,xB1PJ5sqyuQDj48VQ3E47ap9dPn1,0.9,Surat,Gujarat,0,0,0,0,1,3,1,1,0,0,1
+25,0,0,1,0,0,1,0,1HW5boss6UZ2uPXxGDCcwiKR8gh2,0.9,Kannur,Kerala,0,0,0,0,1,3,1,1,0,0,1
+25,0,0,0,0,0,0,0,6MmSmB1lmmOiyKNNA0p7IuVe3CA3,1,test_shreyasr_krpuram,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+15,0,0,0,0,0,0,1,2jy59FeBfYd59GJ6zn6PvLGloD83,2,Philadelphia,Pennsylvania,0,0,0,0,0,0,0,0,0,0,0
+33,0,0,0,0,0,0,0,hTXACBsoo2XasDWx8U9y7kzs8rc2,1,Ahmedabad,Gujarat,0,0,0,0,0,0,0,0,0,0,0
+58,0,0,1,0,0,1,1,HqILRgOnPoYTBOwV923xNysDhA82,0.8,"Nayaply,Khurdha",Odisha,0,0,0,1,0,2,1,1,0,0,0
+30,0,0,0,0,0,0,1,ekXeaNBZYgZvh7mpGGwDQR4Jlwv2,1,Bengaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+26,0,0,1,0,0,1,1,3oM1GutSzARkQnaiMdIUMOSczz42,0.8,Bangalore,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+27,0,0,1,0,0,1,0,9jmKb1whQ0VGTqOaHvdOOr1oo6T2,0.8,Trichy,Tamil Nadu,0,0,0,1,0,2,1,1,0,0,0
+26,0,0,0,0,0,0,0,JcXAvo6g3GYZOJe6VnzkeqH0OmS2,1,Dakshin Kannada,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+29,0,0,1,0,0,1,1,cBHKiNVlWsg5uT8mF8vrluQX57w1,0.8,Bangalore,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+18,0,0,1,0,0,1,0,HaeKJrHeBqgwClDs0LHG7oT6fHs1,0.9,Bangalore,Karnataka,0,0,0,0,1,3,1,1,0,0,1
+21,0,0,1,0,0,1,1,IhtkrMM4uwVdjhaOiK1NJttf8pM2,0.8,Mumbai,Maharashtra,0,0,0,1,0,2,1,1,0,0,0
+24,0,1,0,0,0,0,1,woCTR97MfJMTanmngUpcK1IJsvm1,1,Visakhapatnam,Andhra Pradesh,0,0,0,0,0,0,0,0,0,0,0
+19,0,1,0,0,0,0,0,PuTsOaPhDNS0a2gCcPbh4CTQZsI3,1,Bengaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+26,0,0,0,0,0,0,0,REREbF9ZKUd33adQOFDQXSYK3SI3,1,Chennai,Tamil Nadu,0,0,0,0,0,0,0,0,0,0,0
+19,0,0,0,0,0,0,0,VmmaLwCF43PJqiCnKPXO73VZJwB2,1,Begusarai,Bihar,0,0,0,0,0,0,0,0,0,0,0
+23,0,0,0,0,0,0,1,5ZDF98UQUxcVuS9VhaWxKlVnXvs1,1,Kurnool,Andhra Pradesh,0,0,0,0,0,0,0,0,0,0,0
+19,0,1,1,0,0,1,0,KySjVqQmk0evZBDzxtR59YHuV222,0.7,Bellari,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+28,0,0,1,0,0,1,0,uuYtRprLjWhFilZnNmWCH0wcT5v2,0.8,Mumbai Hinduja,Maharashtra,0,0,0,1,0,2,1,1,0,0,0
+26,0,0,0,0,0,0,0,Qt3Wy5zDjYfrcZtylWX0sh5niMa2,1,Pune,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+1,0,0,1,0,0,1,0,8FuQrkCbCLRO2og45NDF5RprBPC2,0.8,0,Beijing,0,0,1,1,0,2,1,1,0,0,0
+66,0,0,1,0,0,1,0,zUAc2drprdaJAE0h1XpQyk01iE22,1.6,0,Colorado,0,0,0,1,0,2,1,1,0,0,0
+26,0,0,1,0,0,1,1,xyDgyXrDoyXu5CFqcNe20LRjYqg1,0.9,0,Gujarat,0,0,0,0,1,3,1,1,0,0,1
+30,0,0,0,0,0,0,0,GuL97vIwJgQudwa7mdoEh33JZnr1,1,bengaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+49,0,0,1,0,0,1,0,K8QeHIukfghK4kOQx8LnffbLWP12,0.9,0,California,0,0,0,0,1,3,1,1,0,0,1
+59,0,0,1,0,0,1,0,1ZqxuIHSzvMHY5qUirTwgQ2uq4f2,0.8,Mumbai hinduja,Maharashtra,0,0,0,1,0,2,1,1,0,0,0
+31,0,0,0,0,0,0,0,tuu90okKDSaFMknkDxVhtWtRjEl2,1,Mumbai ,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+20,0,0,0,0,0,0,1,FRMCCawVGmh3acxTrxgPFn7M7zB2,1,PATNA,Bihar,0,0,0,0,0,0,0,0,0,0,0
+28,0,0,1,0,0,1,1,naPVzGoHqwfHo3PNVfoNxMpR7qU2,0.7,Worli,Maharashtra,0,0,1,0,0,1,1,1,0,0,0
+24,0,0,1,0,0,1,0,FeB6iRqlySRwFJHpnIiaokSvWeC2,0.8,Bangalore ,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+35,0,0,0,0,0,0,0,sxkvX8kn2eQnE8pbiKR58Ruea3n2,1,Vadodara,Gujarat,0,0,0,0,0,0,0,0,0,0,0
+25,0,0,0,0,0,0,1,OL4W8fQRM8POiI9lasCM9tgHUvG2,1,0,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+58,0,0,1,0,0,1,0,4ck5XZzCx0XBkREVkHGzpAi1aSk1,0.9,Bangalore,Karnataka,0,0,0,1,0,3,1,1,0,0,1
+24,0,0,1,0,0,1,0,8UkGuBU6UQZqRiqhPtxq1v5m2a33,0.7,Mumbai,Maharashtra,0,0,1,0,0,1,1,1,0,0,0
+26,0,0,0,0,0,0,0,aHcXFlBNfjUmkpgObzFFnxEI8vO2,1,Mumbai hinduja,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+22,0,1,0,0,0,0,0,uSboUuoU77ZRC3vwywgE8XqvzQu1,1,Chengalpattu,Tamil Nadu,0,0,0,0,0,0,0,0,0,0,0
+57,0,0,0,0,0,0,1,wACBReOSDTMMCZiIykM3cylRWUR2,1,Hinduja hospital,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+53,0,0,0,0,0,0,0,MYN9ST6rk6TEgAp5DXGEgZmu6JY2,1,Bangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+30,0,0,0,0,0,0,0,rg1FkHLDwXfx10ktwWfAoMdcZ9v1,1,thane,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+19,0,1,0,0,0,0,0,jQFi8kfYopW0gwFKCV1UnV2d7Oj1,1,Bellari,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+31,0,0,0,0,0,0,0,EyzoLFEmr5dK0ifWxP8HdCypw4r1,1,Hinduja mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+38,0,0,1,0,0,1,1,hVuxSeriDPUtRMM8xz2g7K37k0k2,0.8,Khordha,Odisha,0,0,0,1,0,2,1,1,0,0,0
+30,0,0,0,0,0,0,0,B0biFhyqjzNmtEjWHSH9lQYBB2c2,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+50,0,0,1,0,0,1,0,TI4EfxQ4RSMZyRmFlC5aiAqLJL02,0.7,0,Gujarat,0,0,1,0,0,1,1,1,0,0,0
+40,0,0,0,0,0,0,0,I11YsKcNytZ27XLyt5yKhxMyLZV2,1,Bangalore ,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+47,0,1,0,0,0,0,0,jNkULA6oqOO3RwpvkA1OZ61hhi02,1,Winston-Salem ,North Carolina,0,0,0,0,0,0,0,0,0,0,0
+47,0,0,0,0,0,0,1,cEUtmEr0WzaMyEktYRaqHrryr0s1,1,Paris 15ème,Paris,0,0,0,0,0,0,0,0,0,0,0
+35,0,0,0,0,0,0,0,yvMM52GM1jSK5kA1CRX6hSFt5ON2,1,0,Washington,0,0,0,0,0,0,0,0,0,0,0
+50,0,0,0,0,0,0,0,6C5Cxv34nzSpBc7hvwkP7p5olLz1,1,Dubai,Dubai,0,0,0,0,0,0,0,0,0,0,0
+24,0,0,0,0,0,0,0,tFXAov3QpbTvPL6gzCSwAsTSFT93,1,Mangaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+36,0,0,0,0,0,0,1,6ZovArshO1MTe2tpxFWrHmORa2R2,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+27,0,0,0,0,0,0,0,WNCUJW2QH9fEcsSUztikS1Zvoyn1,1,Palakkad,Kerala,0,0,0,0,0,0,0,0,0,0,0
+44,0,0,1,0,0,1,0,akdaeGnDlhgMKnIjAhpslMiMJO43,0.8,Mumbai,Maharashtra,0,0,0,1,0,2,1,1,0,0,0
+29,0,0,0,0,0,0,0,46bIeJk9J8XrD4ND2IPRMQzjJBt2,1,0,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+25,0,0,0,0,0,0,0,xRTpzeZwMiQaC5YCnlXZeDwgcvL2,1,Mangaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+33,0,0,1,0,0,1,1,M43FaHpw1ScIi97eG6LBx2fBaJ92,0.7,Bangalore,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+24,0,0,0,0,0,0,1,TaoyZAahOzRoDQRxb0DtDZh8Opa2,1,Mangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+45,0,0,0,0,0,0,1,RvmNXu1ssYaqxW3U5WXnX5aNOVU2,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+20,0,0,1,0,0,1,1,Fx2gbIoPlJXrK5OD8FMeepOGlLa2,0.8,0,Kerala,0,0,0,1,0,2,1,1,0,0,0
+23,0,0,0,0,0,0,1,40NRJEGpU9Vg2IFXcuqCQLiKLVz1,1,Mangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+36,0,0,0,0,0,0,1,VFeVSfoV7pM9kzFjHMA0R4rs3XB2,1,Bangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+25,0,0,0,0,0,0,0,Fh3hBZZRh2UXXicTNGMei8ikbSu2,1,Dombivali/Thablne,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+24,0,0,0,0,0,0,1,Y635Ri3QFMcOKC0ckXgW2r0xJ422,1,Andheri,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+24,0,0,0,0,0,0,1,kBFDtvAVY9QYbi7YHYgd7tNpsWx1,1,0,Haryana,0,0,0,0,0,0,0,0,0,0,0
+34,0,1,0,0,0,0,0,4bnHQCj8tnSEx37AR5HiQAH2vB32,1,Nayapally,Odisha,0,0,0,0,0,0,0,0,0,0,0
+31,0,0,0,0,0,0,1,iZa9QuNqinWMeMTdwFstfYRpw4J3,1,Chinchpikli Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+77,0,0,1,0,1,1,3,EbWP0XeMpnbrTsljro0dOGKIell1,0.8,uganda,Allier,0,0,0,1,0,2,1,1,0,0,0
+57,0,0,1,0,0,1,0,saaw7uHQJQesN9AmgKyXNFAaXB82,0.9,Mumbai,Maharashtra,0,0,0,0,1,3,1,1,0,0,1
+28,0,0,1,0,0,1,0,6BT19A6gAlNjbtbe3EdgKQc4kkH3,0.9,Mangaluru,Karnataka,0,0,0,0,1,3,1,1,0,0,1
+50,0,0,1,0,0,1,1,Kbvj1H92OLaeQy0YWHkPGvaH0hw2,0.9,0,Karnataka,0,0,0,0,1,3,1,1,0,0,1
+59,0,0,0,0,0,0,1,ZIzrdWNQK1Xhn6o6jrzSVBMdphp2,1,0,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+30,0,0,0,0,0,0,0,Fps26Qa60WYbR5pI15KzNKSeLXG2,1,Mumbai hinduja,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+34,0,0,0,0,0,0,0,Cd7fkliPM2ZUM1skytvoU2vD8jK2,1,Mangaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+35,0,0,0,0,1,0,0,0drfnqVwccT6UmgVLQEuyVglDC23,1,0,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+27,0,1,0,0,0,0,0,YHHZYBxPHsUWYITjtMRAixs3DX42,1,Mangalore ,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+37,0,0,0,0,0,0,0,ZaeW7vuikQgf7984JVqXYOtUQMs2,1,Thiruvananthapuram,Kerala,0,0,0,0,0,0,0,0,0,0,0
+60,0,1,1,0,0,1,0,ir3jqGSKT2ManVTAAzj6Ew7orBD2,0.7,Mumbai ,Maharashtra,0,0,1,1,0,1,1,1,0,0,0
+22,0,0,0,0,0,0,0,mmg71cttF0ez7wdeTZeCVFw7GV32,1,Udupi,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+39,0,1,0,0,0,0,1,fWUMPPgD78VZinzLLLwqbyTysJa2,1,Bengaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+39,0,1,0,0,0,0,0,S0ZhYGoCVfXWMHzPGZ41PvHYiw12,1,0,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+34,0,0,0,0,0,0,0,oPLTYiEHMFTuruwTXpbRPnlz2mr1,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+38,0,0,0,0,0,0,1,1PhqsVP6EhPzs1zx9XUsyj7nm823,1,Bangalore ,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+25,0,1,1,0,0,1,0,ZzKpUtFGzsVEK7E1wsVGRftKdx93,0.7,Dakshina kannada,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+27,0,0,0,0,0,0,0,57DMikLLUefbXYKeCPuxp5Wdtfr1,1,kolkata,West Bengal,0,0,0,0,0,0,0,0,0,0,0
+28,0,1,1,0,0,1,0,IimA0GnOm7ZR4nEr8k0kG4eaR7A3,0.7,Bangalore,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+33,0,1,0,0,0,0,1,hte8VptUoGVFEqvHpbh5brgfcNP2,1,NAMAKKAL,Tamil Nadu,0,0,0,0,0,0,0,0,0,0,0
+49,0,1,0,0,0,0,1,4sjgUTKdPXcgwHbPcqEtB6WA7XB3,1,Mumbai ,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+52,0,1,0,0,0,0,1,xYCukI9rgMeslwjIYWheFtyZ6zk1,1,Mangalore ,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+39,0,0,0,0,0,0,0,CUCqq4q5SQa3fDkpraekej7fNza2,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+23,0,0,0,0,0,0,1,OUFazbHbbtRTQcRP5BWBKzeZpvw1,1,Mangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+35,0,0,1,0,0,1,0,quF8xZxqK8NnszkwktXovmZ9fBT2,0.8,Mumbai,Maharashtra,0,0,0,1,0,2,1,1,0,0,0
+24,0,1,0,0,0,0,0,foSqAW8uRvWn3SsriOdFCLpNKY13,1,Kasargod,Kerala,0,0,0,0,0,0,0,0,0,0,0
+47,0,0,0,0,0,0,1,nC130uADRFZF5vae8qZt2qmpbpi1,1,Mangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+26,0,0,0,0,0,0,0,HwUhcAKwJIeckUi86cbzb3sTr5m2,1,LEAP_TEST,Kerala,0,0,0,0,0,0,0,0,0,0,0
+23,0,0,0,0,0,0,0,owZvvdKAOXPqHD3yXUpkORYsV0H3,1,Dakshin Kannada,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+22,0,1,0,0,0,0,1,iS29Ewab4XQHypUcZLygL7AYH6J2,1,Mangalore ,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+32,0,0,0,0,0,0,0,85iNcV2z6MNT3FrygbEC4fuGrIu1,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+47,0,1,0,0,0,0,0,RUZ93kkyD0hJ1v7awXutr6RgF943,1,Dakshinakannada,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+24,0,1,0,0,0,0,0,cf4RgKotFbYPn2HsLdxHyiChY3I2,1,Mangaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+25,0,0,0,0,0,0,0,MF5f99sONpcYl5fYsVzh32XwSmm2,1,Dakshin Kannada,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+20,0,1,0,0,0,0,0,yL9QW3T2VueXfL3yvsmXsM2hL4v1,1,Phoenix,Arizona,0,0,0,0,0,0,0,0,0,0,0
+22,0,1,0,0,0,0,0,05acPS4aRGfvuOfku11Za8zve8i2,1,LEAP-TEST,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+25,0,1,0,0,0,0,0,0KSi2atlmsXNcGMfpDNzIjJSvC23,1,0,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+47,0,0,1,0,0,1,0,LasObOSE2kQYWhWkA7WimXxhwUE2,0.8,Thane,Maharashtra,0,0,0,1,0,2,1,1,0,0,0
+37,0,0,1,0,0,1,1,iaLzL5BAVHXg0Ng0Phw6WMZHEkg2,0.9,Mumbai maharashtra,Maharashtra,0,0,0,0,1,3,1,1,0,0,1
+48,0,0,1,0,0,1,1,wXChdMlWemXwRdX642WnX6JbYfA2,0.8,Bangalore.  Iisc,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+20,0,1,1,0,0,1,1,IkdWn0v3dAU9eWzsf3rY8Dwgf0V2,0.7,Mangalore,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+23,0,1,0,0,0,0,1,nsKPMVQ77PdvSk4XO3Ri21f1YeH2,1,Thrissur,Kerala,0,0,0,0,0,0,0,0,0,0,0
+23,0,0,1,0,0,1,0,HATVkqrdXhV2eIiwy5iIP7V0bjo2,0.8,Bengaluru,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+23,0,1,1,0,0,1,1,UhYCvhOCn2erbzJc5faN4ek3D1I2,0.7,0,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+24,0,0,1,0,0,1,0,6C9hfSrutjdxeM13Vdjb7Om3zez2,0.7,Dakshin Kannada,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+1,0,1,1,0,0,1,0,iYM9uJMyO1UoXTo1tc7rXvsI4bm1,0.8,0,Ain,0,0,0,1,0,2,1,1,0,0,0
+25,0,0,0,0,0,0,1,s1x2Ze9iVZNf6oFZDAZ4S9x3Cky2,1,0,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+17,0,1,1,0,0,1,0,L9QbDvX4UtMhFOsYuh2aamY3VK23,0.8,Paschim Bardhhaman,West Bengal,0,0,0,1,0,2,1,1,0,0,0
+24,0,0,1,0,0,1,0,7IeLM4Wp0tOmjNfel0c9yK9gYVV2,0.7,Dakshin Kannada,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+25,0,0,0,0,0,0,1,pWFMPFBys1bBerYz5Si4Gb8brGn1,1,0,Arunachal Pradesh,0,0,0,0,0,0,0,0,0,0,0
+43,0,0,0,0,0,0,0,kAnUnZf9b6d4bkjJCawv0nCGJUI2,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+50,0,1,0,0,0,0,1,QjBZv868nydJzk0ZzwgKDHSG6Q82,1,gfg,Aisne,0,0,0,0,0,0,0,0,0,0,0
+27,0,0,1,0,0,1,0,6kMlitGRc3XF2Nt13Wl3LOs4wMl1,0.9,Visakhapatnam,Andhra Pradesh,0,0,0,0,1,3,1,1,0,0,1
+51,0,1,1,0,0,1,0,KFQ0ksPwkDcLUUjbVBYWGWr9ei62,0.9,Mumbai,Maharashtra,0,0,0,0,1,3,1,1,0,0,1
+53,0,0,0,0,0,0,0,NAL6D2MCyQbiZUGtdQixl39IH3X2,1,Mumbai ,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+25,0,0,0,0,0,0,0,lVHnQ9UNkAYmjNm7wL885LzpsOk2,1,0,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+2,0,1,0,0,0,0,0,VLrOagtGVFYxWiEnMVFn1BnSWHM2,1,0,Ain,0,0,0,0,0,0,0,0,0,0,0
+45,0,1,0,0,0,0,0,xtfp7P3edRNGnQniJlEUvTXGPoq2,1,Mangalore ,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+49,0,1,0,0,0,0,0,ffyNrzu5ZGXrZ0I7MbxBwqbtIln1,1,Mangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+23,0,1,0,0,0,0,0,joORHxc0iCTwgP7Uh5SM5N7rnnf2,1,Mangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+49,0,1,1,0,0,1,1,W42AKc6SZlNz1NOBAJrCpa3Io0E2,0.9,Bangalore ,Karnataka,0,0,0,0,1,3,1,1,0,0,1
+65,0,0,1,0,0,1,0,yHDFkOJHVZTgJAab31hQ0cq9rUb2,0.7,Mangalore,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+48,0,0,1,0,0,1,1,b7mMUQm5bObj1jwGFaNyaR07pt83,0.8,Mangalore,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+65,0,0,0,0,0,0,0,w7pdOIUnHPRfYLXVVRtIRsOjGnr2,1,Manipal ,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+27,0,0,0,0,0,0,1,myAv7VQZySPhI599FSTraHN0vtH3,1,Prabhadevi,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+53,0,0,0,0,0,0,1,pP9m9dwWhCWPUCWS1cut17IAoxh1,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+22,0,1,0,0,0,0,0,h3Bw7lc9NfapT3IJkwjIuRI9yfa2,1,0,Aisne,0,0,0,0,0,0,0,0,0,0,0
+33,0,0,0,0,0,0,1,DIzDEYclGHggfip2pfT4yW484bF2,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+42,0,0,1,0,0,1,0,j9H4jHAjVPbnLqoO83jZVAtZ5ep2,0.8,Tiruvallore,Tamil Nadu,0,0,0,1,0,2,1,1,0,0,0
+51,0,0,0,0,0,0,1,padi9FFWGYfPABEtWBwLQqf952s1,1,Mangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+34,0,0,1,0,0,1,1,R9EJURFbJjRNEl9lmQZw1gfs08J3,0.7,Dakshina Kannada ,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+28,0,0,0,0,0,0,0,mWomPz26WCRVi8sp1QneGAvTBL72,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+22,0,0,1,0,0,1,0,aiuXXywWvhXtTtGSMDITFMmKs1E2,0.8,North 24 Parganas,West Bengal,0,0,0,1,0,2,1,1,0,0,0
+65,0,0,0,0,0,0,1,xsGViRLscNeryc3TyMt1eqmOt0C2,1,Dakshin kannada,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+12,0,1,1,0,0,1,1,KTaxfghl8TeziY3aZmaNxNFmUqj1,0.8,0,Aisne,0,0,0,1,0,2,1,1,0,0,0
+25,0,1,0,0,0,0,1,UlWhFB6lKfNxNLL74wLNe7bjM4H3,1,0,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+21,0,0,0,0,0,0,1,sPGRBmPA8SX6kBsrzS7c4zt8fsr2,1,Delhi,Delhi,0,0,0,0,0,0,0,0,0,0,0
+20,0,0,0,0,0,0,0,SCsTjixqXmWvyjniXtg7Pv54Amw2,1,Navi Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+24,0,0,1,0,0,1,1,pBBuvcoBj7hjmNVYFICT4hQYRGw1,0.8,Dakshina Karnataka,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+2,0,0,0,0,0,0,0,Mze07Z8CKrheFGZun75Hcgp4TH02,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+26,0,0,0,0,0,0,0,qBtpGYR8y5RqHU1fsK8pj7YYjUA2,1,0,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+24,0,0,0,0,0,0,0,Xn3y4lqypTNVBsB1yYYkDDypizk2,1,0,Rajasthan,0,0,0,0,0,0,0,0,0,0,0
+30,0,0,1,0,0,1,1,ZDuodssisIdOfarHk3ie8RJVIGj1,0.8,Mumbai,Maharashtra,0,0,0,1,0,2,1,1,0,0,0
+50,0,0,0,0,0,0,1,d2S7zWZAlOagXj9khf3TVA52how1,1,Leena.yoga@hindujahospital.com ,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+57,0,0,0,0,0,0,1,VtGZATvYtHRPY3asdEEN8sybTOe2,1,Mumbai ,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+20,0,1,1,0,0,1,1,VDhr3WpGrNSi0eWqpTtfZdvUC3N2,0.8,Mangalore,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+27,0,0,0,0,0,0,0,RXlGfpbvnpWcbFJjFzkTBbz2G492,1,Mangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+23,0,0,0,0,0,0,0,YfM42MQoVvT5V7HG9JstuUqBRDf1,1,Kanchipuram,Tamil Nadu,0,0,0,0,0,0,0,0,0,0,0
+28,0,0,0,0,0,0,0,51UrWvD8cibKqSeqLEBp8q6N29y1,1,Mumbai Hinduja hospital,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+36,0,0,1,0,0,1,1,BoCrMaxD7DVdo0nXNl14zk8ycR52,0.7,Dakshina kannada,Karnataka,0,0,1,1,0,1,1,1,0,0,0
+34,0,0,1,0,0,1,0,lA0B2Fks6UMfTDPTAuyJXmZOHuo2,0.7,Bangalore urban,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+56,0,0,0,0,0,0,1,Ap3uH6NDwMY5SymZi7OrjaUwiDQ2,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+18,0,0,0,0,0,0,0,GE5qvqLgiZRrDreK2Hv1ppWVrQp1,1,0,West Bengal,0,0,0,0,0,0,0,0,0,0,0
+48,0,0,0,0,0,0,0,4jqhl90ZLzc8L1R3yRwKYg0Ruez1,1,Mumbai ,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+41,0,0,0,0,0,0,1,GjdjAvKrnbRRRX1KbioknjMVLNx2,1,Angul ,Odisha,0,0,0,0,0,0,0,0,0,0,0
+51,0,0,0,0,0,0,0,llSmz39DbNfSYZ1M4c8zytC4W0r1,1,HBR LAYOUT,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+26,0,0,1,0,0,1,0,FNYflY4qOecrSQOzynZ1WDQZfCJ3,0.8,0,California,0,0,0,1,0,2,1,1,0,0,0
+22,0,0,0,0,0,0,1,m1s2RQ1f2LaqD6o9RArZkiDGoFr1,1,Dakshin Kannada,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+56,0,0,0,0,0,0,0,n8WR98Nf2WMncTf0mEVL8lPCnp12,1,Bengaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+35,0,0,1,0,0,1,0,4kBWmFxHZVReUAO5oltW8mWLvSB2,0.9,North 24 pgs,West Bengal,0,0,0,0,1,3,1,1,0,0,1
+30,0,0,0,0,0,0,0,uBpTSMrCY2QGKbaMQ9NWmGA78P12,1,Bengaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+28,0,0,0,0,0,0,0,uMry1yqi5sNoykw7ySJdITMv2yT2,1,Bangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+22,0,0,0,0,0,0,0,Axei3vO2YcQM56PrwqmMF40A6aG3,1,Siliguri,West Bengal,0,0,0,0,0,0,0,0,0,0,0
+19,0,0,0,0,0,0,0,3tu94JnHgHN3B7LVzqQwE25H2Gl1,1,0,West Bengal,0,0,0,0,0,0,0,0,0,0,0
+26,0,0,1,0,0,1,0,U7UmNZmqS6OWTiDkM7IfqkDRrae2,0.8,Gurgaon,Haryana,0,0,0,1,0,2,1,1,0,0,0
+39,0,0,0,0,0,0,0,96eiRKxrQpTqK2AvQyADEtG5xEi1,1,Bengaluru,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+19,0,0,1,0,0,1,0,fBhAIfEdrdSjfz2Gk3FCIMjaD7z1,0.8,Bubaneswar,Odisha,0,0,0,1,0,2,1,1,0,0,0
+27,0,0,1,0,0,1,0,alHP6MaZt1dneLG1iix5HHszKcz2,0.8,Buldhana,Maharashtra,0,0,0,1,0,2,1,1,0,0,0
+28,0,0,0,0,0,0,1,3cDOR1xnHoULyVWNMbQG3wd3p3v2,1,0,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+50,0,0,0,0,0,0,0,t2pbxfq394a4oOVoHrwbiUFV85G2,1,Bangalore Urban,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+24,0,0,0,0,0,0,1,dEM0ehwUlrWLDRwRyFVY35hHfDG3,1,Vasco da gama ,Goa,0,0,0,0,0,0,0,0,0,0,0
+13,0,0,0,0,0,0,0,vtgAUePTOhhqlyo7DiNxlnghA6h1,1,Angul,Odisha,0,0,0,0,0,0,0,0,0,0,0
+24,0,0,1,0,0,1,0,AwzhLro3l6Wa5kPJyzyB6BNgVqN2,0.9,Erode,Tamil Nadu,0,0,0,0,1,3,1,1,0,0,1
+30,0,0,1,0,0,1,0,iKztabb0gWfeagEyYuU3US36u9b2,0.8,YADGIR,Karnataka,0,0,0,1,0,2,1,1,0,0,0
+57,0,0,0,0,0,0,0,zFDUIa5rb2OG7IXXSI5vXVsoLa32,1,Hyderabad,Telangana,0,0,0,0,0,0,0,0,0,0,0
+40,0,0,1,0,0,1,0,L7S8iIPKgiO6QWLC3mGkROCMa0s1,0.7,Ahmedabad,Gujarat,0,0,1,0,0,1,1,1,0,0,0
+46,0,0,0,0,0,0,1,eNBbx8z6N4Wr49xiHOe3TgYILs53,0,Eymoutiers,Haute-Vienne,0,0,0,0,0,0,0,0,0,0,0
+22,0,0,1,0,0,1,1,j31umQI0FpRQTOBIkTlKlGlPhF03,0.7,Erode ,Tamil Nadu,0,0,1,0,0,1,1,1,0,0,0
+27,0,0,0,0,0,0,1,yCzbULubsuY5sNYwje0zqNqtEB62,0,0,Brussel,0,0,0,0,0,0,0,0,0,0,0
+41,0,0,0,0,0,0,1,J5QGEKLK87d2dASH0umWBDzJ12P2,1,Hubballi,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+21,0,0,0,0,0,0,0,xGXFc89moWU9CnrXW68NAZaRjQH3,1,Medchal Malkajgiri,Telangana,0,0,0,0,0,0,0,0,0,0,0
+43,0,1,0,0,0,0,1,bEfNHdklxlOA7o1kO5GF2P8ButS2,1,"HSR layout, bengaluru",Karnataka,0,0,0,0,0,0,0,0,0,0,0
+26,0,0,1,0,0,1,0,9XKj7fAmvwPUas9GFPZuTpev7T03,0.7,Bangalore Urban,Karnataka,0,0,1,0,0,1,1,1,0,0,0
+18,0,1,0,0,0,0,0,0HIgO2EhOOW1msCbEw1kC8Qsx6D3,1,0,Delhi,0,0,0,0,0,0,0,0,0,0,0
+25,0,0,0,0,0,0,0,mFQ65xqfxpXiS6vwK1HKwq7j8o62,1,Hyderabad,Telangana,0,0,0,0,0,0,0,0,0,0,0
+28,0,0,0,0,0,0,0,AUwVqLrZHwO7uyyadbaMDd4XyxC3,1,Sarangarh,Chhattisgarh,0,0,0,0,0,0,0,0,0,0,0
+23,0,0,0,0,0,0,1,dWeafY7aXUadwWiTVJinx7sftGl2,1,Mangalore,Karnataka,0,0,0,0,0,0,0,0,0,0,0
+39,0,0,1,0,0,1,0,QKnsqWkOf6Tv9O1kze0qEHpvI2T2,0.9,0,Kyoto,0,0,1,0,0,1,1,1,0,0,0
+29,0,0,0,0,0,0,1,hqj98iIGSBWhlqFYLFI3p9VIe8d2,1,Mumbai,Maharashtra,0,0,0,0,0,0,0,0,0,0,0
+69,0,0,1,0,0,1,1,sSRc22AD2BNCZwcHILpCD0pbp5l2,0.9,Bengaluru,Karnataka,0,0,0,0,1,3,1,1,0,0,1
+22,0,0,1,0,0,1,0,5xZE8Rq5oihwEixr96NmUmiy7zk1,0.9,Sonbhadra,Uttar Pradesh,0,0,0,0,1,3,1,1,0,0,1
+15,0,0,0,0,0,0,0,imJHn5lm2kNb8LxmSeTGBtm5vAn2,1,Angul,Odisha,0,0,0,0,0,0,0,0,0,0,0

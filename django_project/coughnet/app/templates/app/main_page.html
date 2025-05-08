@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COVID-19, HMPV & H3N2 Prediction</title>
+    <style>
+        /* Global Styles */
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(to right, #1e3c72, #2a5298);
+            color: #fff;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        h2 {
+            font-size: 28px;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+            letter-spacing: 1px;
+        }
+
+        /* Form Styling */
+        form {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 25px;
+            width: 90%;
+            max-width: 600px;
+            margin: 0 auto;
+            border-radius: 12px;
+            backdrop-filter: blur(12px);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        /* Checkbox Grid Layout */
+        .checkbox-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 12px;
+            text-align: left;
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: flex;
+            align-items: center;
+            font-size: 16px;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 8px;
+            border-radius: 8px;
+            transition: all 0.3s ease-in-out;
+        }
+
+        label:hover {
+            background: rgba(255, 255, 255, 0.4);
+            transform: scale(1.05);
+        }
+
+        /* Bigger Checkboxes */
+        input[type="checkbox"] {
+            width: 20px;
+            height: 20px;
+            margin-right: 10px;
+            cursor: pointer;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 12px;
+            margin-top: 5px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            background: rgba(255, 255, 255, 0.8);
+            outline: none;
+            transition: 0.3s ease-in-out;
+        }
+
+        input:focus, select:focus {
+            background: #fff;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.6);
+        }
+
+        /* Button Styling */
+        button {
+            background: #ff5e57;
+            color: white;
+            border: none;
+            padding: 14px;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 8px;
+            cursor: pointer;
+            margin-top: 20px;
+            transition: all 0.3s ease-in-out;
+            width: 100%;
+        }
+
+        button:hover {
+            background: #ff3b30;
+            transform: scale(1.08);
+            box-shadow: 0 0 12px rgba(255, 94, 87, 0.6);
+        }
+
+        /* Status Messages */
+        p {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .success {
+            color: #00e676;
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        .error {
+            color: #ff1744;
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        /* Loading Animation */
+        .loading-container {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8); /* Darker overlay to hide form */
+    flex-direction: column;
+    z-index: 9999; /* Ensure it stays above everything */
+}
+
+
+        .loading-spinner {
+            border: 6px solid rgba(255, 255, 255, 0.3);
+            border-top: 6px solid white;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            animation: spin 1s linear infinite;
+        }
+
+        .loading-text {
+            margin-top: 10px;
+            font-size: 18px;
+            font-weight: bold;
+            color: white;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @keyframes fadeIn {
+            0% { opacity: 0; transform: translateY(-10px); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+
+    </style>
+    <script>
+        function showLoading() {
+            document.getElementById("loading-container").style.display = "flex";
+        }
+    </script>
+</head>
+<body>
+
+<div id="loading-container" class="loading-container">
+    <div class="loading-spinner"></div>
+    <div class="loading-text">Processing... Please wait</div>
+</div>
+
+<h2>COVID-19, HMPV & H3N2 Prediction</h2>
+
+<form method="post" enctype="multipart/form-data" onsubmit="showLoading()">
+    {% csrf_token %}
+
+    <h3>Medical Symptoms:</h3>
+    <div class="checkbox-container">
+        {% for field in metadata_fields %}
+            <label>
+                <input type="checkbox" name="{{ field }}" value="1">
+                {{ field|capfirst }}
+            </label>
+        {% endfor %}
+    </div>
+
+    <label>Gender:</label>
+    <select name="g">
+        <option value="0">Male</option>
+        <option value="1">Female</option>
+    </select>
+
+    <label>Age:</label>
+    <input type="number" name="a" min="1" max="100" required>
+
+    <label>Lung Condition Score:</label>
+    <input type="number" step="0.01" name="l_c" required>
+
+    <h2>Upload Audio Files (1-3 WAV files)</h2>
+    <input type="file" name="audio_files" accept=".wav" multiple required>
+
+    <button type="submit">Submit</button>
+</form>
+
+{% if metadata_submitted %}
+    <p class="success">✅ Metadata submitted successfully.</p>
+{% else %}
+    <p class="error">❌ Metadata not submitted.</p>
+{% endif %}
+
+{% if audio_uploaded %}
+    <p class="success">✅ Audio files uploaded successfully.</p>
+{% else %}
+    <p class="error">❌ No audio files uploaded.</p>
+{% endif %}
+
+{% if prediction_result %}
+    <h2>Prediction Result:</h2>
+    <p class="success">{{ prediction_result }}</p>
+{% else %}
+    <p class="error">❌ No prediction result.</p>
+{% endif %}
+
+</body>
+</html>

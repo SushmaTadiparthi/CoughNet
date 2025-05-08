@@ -1,0 +1,10 @@
+1 - Downlaod the dataset 
+2 - Unzip using the script given in the github
+3 - Remove addtional dataset
+4 - changes in metadata
+5 - Covert the audio files in to spectograms
+6 - train the model using the train.py
+7 - can test the model using the test.py files
+8 - Start the django server to run the website
+9 - upload the metadata and images in the website
+10 - Final step get the values
